@@ -34,8 +34,6 @@ Checked for unusual browser behavior (pop-ups, redirects, ads)
 
 Google Docs Offline – Verified as official Google extension
 
-(Add your other extensions here if any)
-
 Security Verification Example
 
 The extension Google Docs Offline was researched online and confirmed to be an official extension developed by Google. It is safe and used to enable offline document editing.
